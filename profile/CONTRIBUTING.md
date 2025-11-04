@@ -1,6 +1,6 @@
 # Contributing to This Project
 
-First off, thank you for taking the time to contribute! 🎉  
+First off, thank you for taking the time to contribute! 
 We appreciate your help in improving this project — whether it's fixing bugs, adding features, improving documentation, or suggesting new ideas.
 
 ---
@@ -17,7 +17,7 @@ Please take a moment to read these guidelines before contributing.
 
 ---
 
-## 🐞 Reporting Bugs
+## Reporting Bugs
 
 If you discover a bug:
 1. **Check existing issues** — your problem might already be reported or fixed.
@@ -45,7 +45,7 @@ When submitting an enhancement:
 
 ---
 
-## 🔧 Making Changes (Pull Requests)
+## Making Changes (Pull Requests)
 
 Before you start coding, consider discussing your idea in an issue first — it helps prevent duplicated effort.
 
