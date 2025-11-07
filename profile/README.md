@@ -1,8 +1,15 @@
-# lab68dev 
+# lab68dev
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/lab68dev/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/lab68dev/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/groups/lab68dev)
+[![Email](https://img.shields.io/badge/Email-lab68dev%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:lab68dev@gmail.com)
+
+---
 
 ## Overview
 
-lab68dev is an independent software development organization focused on building scalable web platforms, AI-powered integrations, and open-source tools for modern digital environments.
+**lab68dev** is an independent software development organization focused on building scalable web platforms, AI-powered integrations, and open-source tools for modern digital environments.
 
 Our mission is to create efficient, maintainable, and developer-friendly solutions that bridge the gap between intelligent systems and practical user experience.
 
@@ -28,6 +35,7 @@ To advance modern software development through open collaboration, clean enginee
 | Project | Description | Status |
 |----------|--------------|--------|
 | [lab68dev-platform](https://github.com/F4P1E/lab68dev-platform) | Next.js web application with AI integration and modern UX. | Active |
+
 ---
 
 ## Contribution
@@ -55,9 +63,13 @@ All contributions are reviewed to maintain consistency, performance, and maintai
 
 ## Contact
 
-For inquiries, proposals, or collaboration:
+**Get in touch:**
 
-- GitHub: [lab68dev Organization](https://github.com/lab68dev)
+- **LinkedIn:** [lab68dev](https://www.linkedin.com/company/lab68dev/)
+- **Instagram:** [@lab68dev](https://www.instagram.com/lab68dev/)
+- **Facebook Group:** [lab68dev Community](https://www.facebook.com/groups/lab68dev)
+- **Email:** [lab68dev@gmail.com](mailto:lab68dev@gmail.com)
+- **GitHub:** [lab68dev Organization](https://github.com/lab68dev)
 
 ---
 
