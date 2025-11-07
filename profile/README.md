@@ -1,9 +1,23 @@
-# lab68dev
+<p align="center">
+  <img src="./Lab68dev.png" alt="Lab68dev Logo" width="200"/>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/company/lab68dev/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/lab68dev/)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/groups/lab68dev)
-[![Email](https://img.shields.io/badge/Email-lab68dev%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:lab68dev@gmail.com)
+<h1 align="center">lab68dev</h1>
+
+<p align="center">
+  <a href="https://www.linkedin.com/company/lab68dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/lab68dev/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="https://www.facebook.com/groups/lab68dev">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+  <a href="mailto:lab68dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-lab68dev%40gmail.com-D14836?logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+</p>
 
 ---
 
@@ -76,7 +90,7 @@ All contributions are reviewed to maintain consistency, performance, and maintai
 ## License
 
 All projects within the lab68dev organization specify their license terms individually.  
-Unless otherwise noted, projects are distributed under the **MIT License**.
+Unless otherwise noted, projects are distributed under the [MIT License](./LICENSE).
 
 ---
 
