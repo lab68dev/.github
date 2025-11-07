@@ -64,7 +64,7 @@ For inquiries, proposals, or collaboration:
 ## License
 
 All projects within the lab68dev organization specify their license terms individually.  
-Unless otherwise noted, projects are distributed under the **MIT License**.
+Unless otherwise noted, projects are distributed under the [MIT License](./LICENSE).
 
 ---
 
