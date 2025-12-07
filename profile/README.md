@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Lab68dev.png" alt="Lab68dev Logo" width="200"/>
+  <img src="./Minimalist Black White The End Animation Video.gif" alt="Lab68dev Banner" width="100%"/>
 </p>
 
 <h1 align="center">lab68dev</h1>
