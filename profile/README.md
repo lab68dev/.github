@@ -2,7 +2,7 @@
   <img src="./lab68dev_animation_banner.gif" alt="Lab68dev Banner" width="100%"/>
 </p>
 
-<h1 align="center">lab68dev</h1>
+<h1 align="center">lab68dev studio</h1>
 
 <p align="center">
   <a href="https://www.linkedin.com/company/lab68dev/">
