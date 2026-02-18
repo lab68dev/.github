@@ -5,95 +5,57 @@
 <h1 align="center">lab68dev studio</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/company/lab68dev/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.instagram.com/lab68dev/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href="https://www.facebook.com/groups/lab68dev">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
-  <a href="mailto:lab68dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-lab68dev%40gmail.com-D14836?logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
+  <strong>High-fidelity software engineering. Minimalist by design.</strong>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/company/lab68dev/"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+  <a href="https://www.youtube.com/@lab68dev"><img src="https://img.shields.io/badge/YOUTUBE-000000?style=for-the-badge&logo=youtube" alt="YouTube"/></a>
+  <a href="https://github.com/lab68dev"><img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github" alt="GitHub"/></a>
+  <a href="mailto:lab68dev@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail" alt="Email"/></a>
 </p>
 
 ---
 
-## Overview
-
-**lab68dev** is an independent software development organization focused on building scalable web platforms, AI-powered integrations, and open-source tools for modern digital environments.
-
-Our mission is to create efficient, maintainable, and developer-friendly solutions that bridge the gap between intelligent systems and practical user experience.
+### [01] MISSION_STATEMENT
+**lab68dev** is a modular software organization specializing in scalable web architecture and passwordless authentication. We build tools that bridge the gap between complex backend logic and refined, monochrome user interfaces.
 
 ---
 
-## Vision
+### [02] PROJECT_INDEX
 
-To advance modern software development through open collaboration, clean engineering, and thoughtful design — empowering developers to build faster and smarter.
-
----
-
-## Core Focus Areas
-
-- **Web Platform Engineering** – Full-stack solutions using Next.js, TypeScript, and cloud deployment.
-- **Artificial Intelligence Integration** – Applying Gemini and OpenAI APIs for generative and analytical capabilities.
-- **Developer Experience** – Building frameworks and utilities that simplify complex workflows.
-- **Open Source Collaboration** – Sharing modular and reusable code to strengthen the developer ecosystem.
+| PROJECT | STATUS | TECHNOLOGY | DEPLOYMENT |
+| :--- | :--- | :--- | :--- |
+| **CV Builder** | `ACTIVE` | Next.js • JWT • Neon | [Website](https://lab68cvbuilder.vercel.app/) |
+| **lab68 Store** | `ACTIVE` | Next.js • Tailwind | [Website](https://lab68store.vercel.app/) |
+| **Video Resizer** | `ACTIVE` | WASM • Netlify | [Website](https://lab68videoresizer.netlify.app/) |
+| **Core Platform** | `ACTIVE` | Next.js • AI Integration | [View Source](https://github.com/F4P1E/lab68dev-platform) |
 
 ---
 
-## Active Projects
-
-| Project | Description | Status |
-|----------|--------------|--------|
-| [lab68dev-platform](https://github.com/F4P1E/lab68dev-platform) | Next.js web application with AI integration and modern UX. | Active |
+### [03] CORE_COMPETENCIES
+* **Systems Architecture:** Building modular Next.js platforms with a focus on **Type-Safety**.
+* **Security & Auth:** Implementing stateless JWT protection and passwordless Gmail-only flows.
 
 ---
 
-## Contribution
-
-We welcome contributions from developers who share our values of quality, clarity, and collaboration.
-
-To contribute:
-
-1. Review the [Code of Conduct](./CODE_OF_CONDUCT.md).
-2. Follow the [Contributing Guidelines](./CONTRIBUTING.md).
-3. Open a pull request with a clear description of your proposed change.
-
-All contributions are reviewed to maintain consistency, performance, and maintainability.
+### [04] INFRASTRUCTURE
+* **Primary Stack:** TypeScript, Python, Java, Next.js 16+
+* **Database:** Neon (PostgreSQL), Supabase
+* **Deployment:** Vercel, Render & Netlify
+* **Quality:** GitHub Actions CI/CD
 
 ---
 
-## Development Standards
-
-- Code written primarily in **TypeScript** and **Python**.
-- Follows consistent linting, formatting, and documentation standards.
-- Uses **GitHub Actions** for continuous integration.
-- Deployment through **Vercel** and other managed services.
-
----
-
-## Contact
-
-**Get in touch:**
-
-- **LinkedIn:** [lab68dev](https://www.linkedin.com/company/lab68dev/)
-- **Instagram:** [@lab68dev](https://www.instagram.com/lab68dev/)
-- **Facebook Group:** [lab68dev Community](https://www.facebook.com/groups/lab68dev)
-- **Email:** [lab68dev@gmail.com](mailto:lab68dev@gmail.com)
-- **GitHub:** [lab68dev Organization](https://github.com/lab68dev)
+### [05] CONTACT_AND_SUPPORT
+* **YouTube:** [@lab68dev](https://www.youtube.com/@lab68dev)
+* **LinkedIn:** [lab68dev](https://www.linkedin.com/company/lab68dev/)
+* **Community:** [Facebook Group](https://www.facebook.com/groups/lab68dev)
+* **Direct:** [lab68dev@gmail.com](mailto:lab68dev@gmail.com)
 
 ---
 
-## License
-
-All projects within the lab68dev organization specify their license terms individually.  
-Unless otherwise noted, projects are distributed under the [MIT License](./LICENSE).
-
----
-
-## Acknowledgment
-
-lab68dev thanks its contributors and community for their ongoing support in advancing open-source innovation and collaborative engineering.
+<p align="right">
+  <code>BUILD_VERSION: 2026.02.18</code><br>
+  <sub>Licensed under MIT • lab68dev studio</sub>
+</p>
