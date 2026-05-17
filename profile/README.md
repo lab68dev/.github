@@ -28,7 +28,6 @@
 | :--- | :--- | :--- | :--- |
 | **CV Builder** | `ACTIVE` | Next.js • JWT • Neon | [Website](https://lab68cvbuilder.vercel.app/) |
 | **lab68 Store** | `ACTIVE` | Next.js • Tailwind | [Website](https://lab68store.vercel.app/) |
-| **Video Resizer** | `ACTIVE` | WASM • Netlify | [Website](https://lab68videoresizer.netlify.app/) |
 | **Core Platform** | `ACTIVE` | Next.js • AI Integration | [View Source](https://github.com/F4P1E/lab68dev-platform) |
 
 ---
