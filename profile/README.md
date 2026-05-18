@@ -55,6 +55,6 @@
 ---
 
 <p align="right">
-  <code>BUILD_VERSION: 2026.02.18</code><br>
+  <code>BUILD_VERSION: 2026.05.18</code><br>
   <sub>Licensed under MIT • lab68dev studio</sub>
 </p>
